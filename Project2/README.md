@@ -35,6 +35,6 @@
 
   9. After SSHing into the instance, the hostname was changed to "zatreh-AMI" by typing the following command: "sudo hostname zatreh-AMI".
 
-![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Proof%20of%20SSH%20Creation.png)
+![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Proof%20of%20SSH.png)
   10. Proof of SSH connection to the instance, included with the hostname change.
 
