@@ -2,16 +2,16 @@
 ![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/VPC%20Creation.png)
   - Creation of the VPC.
 
-[!Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Subnet%20Creation.png)
+![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Subnet%20Creation.png)
   - Creation of the subnet.
 
-[!Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Gateway%20Creation.png)
+![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Gateway%20Creation.png)
   - Creation of the internet gateway.
 
-[!Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Route%20Table%20Creation.png)
+![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Route%20Table%20Creation.png)
   - Creation of the route table.
 
-[!Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Security%20Group%20Creation.png)
+![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Security%20Group%20Creation.png)
   - Creation of the security group, with the inclusion of the three networks within the inbound rules.
 
 
@@ -30,11 +30,11 @@
 
   7. An elastic IP was reserved by going to Elastic IPs under Network & Security and then selecting "Allocate Elastic IP Address". EIP was then associated to the instance by selecting Actions and then Associate Elastic IP Address.
 
-[!Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Instance%20Creation.png)
+![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Instance%20Creation.png)
   8. Instance created, along with all of the VPC details included.
 
   9. After SSHing into the instance, the hostname was changed to "zatreh-AMI" by typing the following command: "sudo hostname zatreh-AMI".
 
-[!Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Proof%20of%20SSH%20Creation.png)
+![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Proof%20of%20SSH%20Creation.png)
   10. Proof of SSH connection to the instance, included with the hostname change.
 
