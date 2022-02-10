@@ -2,16 +2,16 @@
 ![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/VPC%20Creation.png)
   - Creation of the VPC.
 
-[!Alt text](https://user-images.githubusercontent.com/76796854/153281333-43a3fb51-b09a-4b1a-ba74-3bf0063f4b6d.png)
+[!Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Subnet%20Creation.png)
   - Creation of the subnet.
 
-[!Alt text](https://user-images.githubusercontent.com/76796854/153281657-96ab28ff-05d6-4427-a927-9fb67872e638.png)
+[!Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Gateway%20Creation.png)
   - Creation of the internet gateway.
 
-[!Alt text](https://user-images.githubusercontent.com/76796854/153282111-d2500e03-1513-4662-83b0-5955c00517a3.png)
+[!Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Route%20Table%20Creation.png)
   - Creation of the route table.
 
-[!Alt text](https://user-images.githubusercontent.com/76796854/153283432-08572fa0-3d99-4ed8-bc24-e60d5b552816.png)
+[!Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Security%20Group%20Creation.png)
   - Creation of the security group, with the inclusion of the three networks within the inbound rules.
 
 
@@ -30,11 +30,11 @@
 
   7. An elastic IP was reserved by going to Elastic IPs under Network & Security and then selecting "Allocate Elastic IP Address". EIP was then associated to the instance by selecting Actions and then Associate Elastic IP Address.
 
-[!Alt text](https://user-images.githubusercontent.com/76796854/153288850-aedc3dff-1c01-451e-85bf-153dcf692f05.png)
+[!Alt text](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Instance%20Creation.png)
   8. Instance created, along with all of the VPC details included.
 
   9. After SSHing into the instance, the hostname was changed to "zatreh-AMI" by typing the following command: "sudo hostname zatreh-AMI".
 
-[!Alt text](https://user-images.githubusercontent.com/76796854/153492076-61495daf-4ac9-4e71-90e5-6f2933ea4e01.png)
+[!Alt text](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Proof%20of%20SSH%20Creation.png)
   10. Proof of SSH connection to the instance, included with the hostname change.
 
