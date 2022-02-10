@@ -31,10 +31,12 @@
   7. An elastic IP was reserved by going to Elastic IPs under Network & Security and then selecting "Allocate Elastic IP Address". EIP was then associated to the instance by selecting Actions and then Associate Elastic IP Address.
 
 ![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Instance%20Creation.png)
+
   8. Instance created, along with all of the VPC details included.
 
   9. After SSHing into the instance, the hostname was changed to "zatreh-AMI" by typing the following command: "sudo hostname zatreh-AMI".
 
 ![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/Proof%20of%20SSH.png)
+
   10. Proof of SSH connection to the instance, included with the hostname change.
 
