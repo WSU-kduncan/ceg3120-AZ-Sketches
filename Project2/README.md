@@ -1,5 +1,5 @@
 ## Part 1
-![sample instance details](VPC Creation.png)
+![Image](https://github.com/WSU-kduncan/ceg3120-AZ-Sketches/blob/main/Project2/VPC%20Creation.png)
   - Creation of the VPC.
 
 [!Alt text](https://user-images.githubusercontent.com/76796854/153281333-43a3fb51-b09a-4b1a-ba74-3bf0063f4b6d.png)
