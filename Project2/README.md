@@ -1,5 +1,5 @@
 ## Part 1
-[!Alt text](https://user-images.githubusercontent.com/76796854/153281383-8147b9f4-4c17-4505-9b26-573df8ab878e.png)
+![Image](VPC Creation.png)
   - Creation of the VPC.
 
 [!Alt text](https://user-images.githubusercontent.com/76796854/153281333-43a3fb51-b09a-4b1a-ba74-3bf0063f4b6d.png)
