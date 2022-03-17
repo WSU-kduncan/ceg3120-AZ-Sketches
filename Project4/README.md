@@ -8,4 +8,5 @@
 	- The HTML files were located in this location because a file called `000-default.conf` file located in the `/etc/apache2/sites-available/` directory calls to this file when it runs to serve content.
 	- I restarted the service by entering `reboot`.
   5. Down below are two screenshots to show a successful connection to web servers 1 and 2, respectively.
-
+![Image](https://user-images.githubusercontent.com/76796854/158911347-fec57b5d-7c55-4290-857d-8bfc08a14f39.png)
+![Image](https://user-images.githubusercontent.com/76796854/158911388-f9f61e2c-9e6a-4b69-819b-bbda44efaa9b.png)
